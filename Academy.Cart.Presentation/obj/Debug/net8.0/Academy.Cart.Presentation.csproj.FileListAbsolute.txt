@@ -15,3 +15,21 @@ C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Presentation\obj\Debu
 C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Presentation\obj\Debug\net8.0\refint\Academy.Cart.Presentation.dll
 C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.pdb
 C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Presentation\obj\Debug\net8.0\ref\Academy.Cart.Presentation.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Presentation.deps.json
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Presentation.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Presentation.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Application.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Domain.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Application.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\bin\Debug\net8.0\Academy.Cart.Domain.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.csproj.AssemblyReference.cache
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.AssemblyInfoInputs.cache
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.AssemblyInfo.cs
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.sourcelink.json
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\Academy..1A06C2D4.Up2Date
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\refint\Academy.Cart.Presentation.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\Academy.Cart.Presentation.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Presentation\obj\Debug\net8.0\ref\Academy.Cart.Presentation.dll

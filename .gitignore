@@ -1,0 +1,50 @@
+# Compilación
+bin/
+obj/
+out/
+Debug/
+Release/
+
+**/bin/
+**/obj/
+**/.vs/
+
+
+# Archivos temporales de Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.jfm
+
+# Archivos de configuración locales
+launchSettings.json
+
+# Dependencias de paquetes
+packages/
+*.nupkg
+*.snupkg
+
+# Archivos de logs
+*.log
+
+# Archivos generados por tests o coverage
+TestResults/
+*.coverage
+*.coveragexml
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Rider/JetBrains
+.idea/
+*.iml
+
+# Archivos de Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Datos sensibles
+appsettings.Development.json

@@ -9,3 +9,15 @@ C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Domain\obj\Debug\net8
 C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Domain\obj\Debug\net8.0\refint\Academy.Cart.Domain.dll
 C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.pdb
 C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Domain\obj\Debug\net8.0\ref\Academy.Cart.Domain.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\bin\Debug\net8.0\Academy.Cart.Domain.deps.json
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\bin\Debug\net8.0\Academy.Cart.Domain.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\bin\Debug\net8.0\Academy.Cart.Domain.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.AssemblyInfoInputs.cache
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.AssemblyInfo.cs
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.sourcelink.json
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\refint\Academy.Cart.Domain.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\ref\Academy.Cart.Domain.dll

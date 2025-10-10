@@ -17,3 +17,23 @@ C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Infrastructure\obj\De
 C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.pdb
 C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.genruntimeconfig.cache
 C:\Users\gd_dl\OneDrive\Desktop\Proyecto dani\Academy.Cart.Infrastructure\obj\Debug\net8.0\ref\Academy.Cart.Infrastructure.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\bin\Debug\net8.0\Academy.Cart.Infrastructure.deps.json
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\bin\Debug\net8.0\Academy.Cart.Infrastructure.runtimeconfig.json
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\bin\Debug\net8.0\Academy.Cart.Infrastructure.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\bin\Debug\net8.0\Academy.Cart.Infrastructure.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\bin\Debug\net8.0\Academy.Cart.Application.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\bin\Debug\net8.0\Academy.Cart.Domain.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\bin\Debug\net8.0\Academy.Cart.Domain.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\bin\Debug\net8.0\Academy.Cart.Application.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.AssemblyInfo.cs
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.sourcelink.json
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy..0EB4ECA1.Up2Date
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\refint\Academy.Cart.Infrastructure.dll
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.pdb
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\Academy.Cart.Infrastructure.genruntimeconfig.cache
+C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Infrastructure\obj\Debug\net8.0\ref\Academy.Cart.Infrastructure.dll

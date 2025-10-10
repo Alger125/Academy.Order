@@ -11,7 +11,7 @@ namespace Academy.Cart.Presentation.Modules
     {
         private const string BASE_URL = "api/v1/cart/";
 
-        // Método principal que registra los endpoints de carrito
+        
         public static void AddCartModules(this IEndpointRouteBuilder app)
         {
             var cartGroup = app.MapGroup(BASE_URL);
@@ -21,7 +21,7 @@ namespace Academy.Cart.Presentation.Modules
                      .WithDescription("Devuelve los productos del carrito con subtotal, impuestos y total a pagar.");
         }
 
-        // Handler del endpoint GET /api/v1/cart/getProducts?userId={userId}
+        
         private static async Task<IResult> GetProducts(
             [FromQuery] int userId,
             ISender sender)
@@ -40,7 +40,7 @@ namespace Academy.Cart.Presentation.Modules
             }
             catch (Exception ex)
             {
-                // Error controlado para devolver HTTP 500 si algo falla
+               
                 return Results.Problem(
                     title: "Error interno en el servidor",
                     detail: ex.Message,
