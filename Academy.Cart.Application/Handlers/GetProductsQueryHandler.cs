@@ -19,7 +19,7 @@ namespace Academy.Cart.Application.Handlers
             var items = await _repository.GetProductsByUserIdAsync(request.UserId);
 
             if (items == null || !items.Any())
-                throw new Exception("El carrito está vacío o el usuario no existe.");
+                throw new Exception("The cart is empty or the user does not exist.");
 
             var products = items.Select(x => new ProductDto
             {
@@ -40,7 +40,7 @@ namespace Academy.Cart.Application.Handlers
             return new CartResponseDto
             {
                 UserId = request.UserId,
-                Products = products,
+                Products = products, 
                 ShippingCost = shipping,
                 Tax = tax,
                 Total = total

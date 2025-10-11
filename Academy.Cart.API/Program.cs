@@ -12,7 +12,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<CartDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("CartConnection")));
 
-// Dependencias
+// Dependencies
 builder.Services.AddScoped<ICartRepository, CartRepository>();
 builder.Services.AddMediatR(Assembly.Load("Academy.Cart.Application"));
 
