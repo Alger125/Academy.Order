@@ -64,7 +64,7 @@ namespace Academy.Cart.Tests.Handlers
 
             // Act & Assert
             var exception = await Assert.ThrowsAsync<System.Exception>(() => handler.Handle(query, CancellationToken.None));
-            Assert.Equal("El carrito está vacío o el usuario no existe.", exception.Message);
+            Assert.Equal("The cart is empty or the user does not exist.", exception.Message);
         }
     }
 }
