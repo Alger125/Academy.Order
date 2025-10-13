@@ -105,23 +105,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gd_dl\\.nuget\\packages\\": {},
+    "C:\\Users\\Ness\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Presentation\\Academy.Cart.Presentation.csproj",
+      "projectUniqueName": "F:\\github\\Academy.Order\\Academy.Cart.Presentation\\Academy.Cart.Presentation.csproj",
       "projectName": "Academy.Cart.Presentation",
-      "projectPath": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Presentation\\Academy.Cart.Presentation.csproj",
-      "packagesPath": "C:\\Users\\gd_dl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Presentation\\obj\\",
+      "projectPath": "F:\\github\\Academy.Order\\Academy.Cart.Presentation\\Academy.Cart.Presentation.csproj",
+      "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+      "outputPath": "F:\\github\\Academy.Order\\Academy.Cart.Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gd_dl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -136,8 +136,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj": {
-              "projectPath": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj"
+            "F:\\github\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj": {
+              "projectPath": "F:\\github\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj"
             }
           }
         }
@@ -151,7 +151,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -175,7 +176,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

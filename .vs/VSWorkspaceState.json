@@ -1,15 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Academy.Cart.Application\\DTOs",
-    "\\Academy.Cart.Application\\Handlers",
-    "\\Academy.Cart.Application\\Interfaces",
-    "\\Academy.Cart.Application\\Queries",
-    "\\Academy.Cart.Domain\\Entities",
-    "\\Academy.Cart.Infrastructure\\Repositories",
-    "\\Academy.Cart.Infrastructure\\Repositories\\CartRepository.cs",
-    "\\Academy.Cart.Presentation\\Modules"
+    ""
   ],
-  "SelectedNode": "\\Academy.Cart.API",
+  "SelectedNode": "\\Academy.Cart.sln",
   "PreviewInSolutionExplorer": false
 }

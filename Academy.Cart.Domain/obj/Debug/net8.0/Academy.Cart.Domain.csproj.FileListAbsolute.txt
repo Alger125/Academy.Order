@@ -21,3 +21,15 @@ C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy
 C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\refint\Academy.Cart.Domain.dll
 C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.pdb
 C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\ref\Academy.Cart.Domain.dll
+F:\github\Academy.Order\Academy.Cart.Domain\bin\Debug\net8.0\Academy.Cart.Domain.deps.json
+F:\github\Academy.Order\Academy.Cart.Domain\bin\Debug\net8.0\Academy.Cart.Domain.dll
+F:\github\Academy.Order\Academy.Cart.Domain\bin\Debug\net8.0\Academy.Cart.Domain.pdb
+F:\github\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.AssemblyInfoInputs.cache
+F:\github\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.AssemblyInfo.cs
+F:\github\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.csproj.CoreCompileInputs.cache
+F:\github\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.sourcelink.json
+F:\github\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.dll
+F:\github\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\refint\Academy.Cart.Domain.dll
+F:\github\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\Academy.Cart.Domain.pdb
+F:\github\Academy.Order\Academy.Cart.Domain\obj\Debug\net8.0\ref\Academy.Cart.Domain.dll

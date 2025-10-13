@@ -161,3 +161,15 @@ C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\scopedcss\
 C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy..6D17E2EC.Up2Date
 C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.genruntimeconfig.cache
 C:\Users\gd_dl\Videos\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\ref\Academy.Cart.API.dll
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.csproj.AssemblyReference.cache
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.AssemblyInfoInputs.cache
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.AssemblyInfo.cs
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.csproj.CoreCompileInputs.cache
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.MvcApplicationPartsAssemblyInfo.cs
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.MvcApplicationPartsAssemblyInfo.cache
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.sourcelink.json
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.dll
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\refint\Academy.Cart.API.dll
+F:\github\Academy.Order\Academy.Cart.API\obj\Debug\net8.0\Academy.Cart.API.pdb

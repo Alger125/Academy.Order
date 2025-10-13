@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ndl80dEAZMg=",
+  "dgSpecHash": "QbzsKraIaBU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj",
+  "projectFilePath": "F:\\github\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gd_dl\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\gd_dl\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+    "C:\\Users\\Ness\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Ness\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }

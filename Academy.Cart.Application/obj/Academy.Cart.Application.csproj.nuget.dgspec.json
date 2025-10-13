@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj": {}
+    "F:\\github\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj": {
+    "F:\\github\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj",
+        "projectUniqueName": "F:\\github\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj",
         "projectName": "Academy.Cart.Application",
-        "projectPath": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj",
-        "packagesPath": "C:\\Users\\gd_dl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Application\\obj\\",
+        "projectPath": "F:\\github\\Academy.Order\\Academy.Cart.Application\\Academy.Cart.Application.csproj",
+        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+        "outputPath": "F:\\github\\Academy.Order\\Academy.Cart.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gd_dl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj": {
-                "projectPath": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj"
+              "F:\\github\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj": {
+                "projectPath": "F:\\github\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj"
               }
             }
           }
@@ -47,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -74,24 +75,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj": {
+    "F:\\github\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj",
+        "projectUniqueName": "F:\\github\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj",
         "projectName": "Academy.Cart.Domain",
-        "projectPath": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj",
-        "packagesPath": "C:\\Users\\gd_dl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gd_dl\\Videos\\Academy.Order\\Academy.Cart.Domain\\obj\\",
+        "projectPath": "F:\\github\\Academy.Order\\Academy.Cart.Domain\\Academy.Cart.Domain.csproj",
+        "packagesPath": "C:\\Users\\Ness\\.nuget\\packages\\",
+        "outputPath": "F:\\github\\Academy.Order\\Academy.Cart.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gd_dl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ness\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -117,7 +118,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -138,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.414/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
